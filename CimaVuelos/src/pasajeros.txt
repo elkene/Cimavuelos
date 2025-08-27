@@ -1,0 +1,145 @@
+
+Vuelo: 127
+Nombre(s): monica
+Apellidos: garcia
+Género: Femenino
+Fecha de nacimiento: 21/07/2003
+Correo Electrónico: monica@hotmail.com
+Teléfono: 6641347273
+Asiento: E7
+-
+Vuelo: 127
+Nombre(s): monica
+Apellidos: garcia
+Género: Femenino
+Fecha de nacimiento: 21/07/2003
+Correo Electrónico: monica@hotmail.com
+Teléfono: 6641234567
+Asiento: F7
+-
+Vuelo: 127
+Nombre(s): dalila
+Apellidos: gutierrez
+Género: Femenino
+Fecha de nacimiento: 20/09/2003
+Correo Electrónico: dalila@hotmail.com
+Teléfono: 6642456789
+Asiento: E7
+-
+Vuelo: 127
+Nombre(s): monica
+Apellidos: garcia
+Género: Femenino
+Fecha de nacimiento: 21/07/2003
+Correo Electrónico: monica@hotmail.com
+Teléfono: 6641234567
+Asiento: E7
+-
+Vuelo: 127
+Nombre(s): dalila
+Apellidos: gutierrez
+Género: Femenino
+Fecha de nacimiento: 20/08/2003
+Correo Electrónico: dalila@hotmail.com
+Teléfono: 6639876543
+Asiento: F7
+-
+Vuelo: 127
+Nombre(s): mark
+Apellidos: lee
+Género: Masculino
+Fecha de nacimiento: 06/04/1999
+Correo Electrónico: mark
+Teléfono: 6643284127
+Asiento: C1
+-
+Vuelo: 127
+Nombre(s): johnny
+Apellidos: seo
+Género: Masculino
+Fecha de nacimiento: 09/02/1997
+Correo Electrónico: johnnyseo@gmail.com
+Teléfono: 6642546393
+Asiento: C1
+-
+Vuelo: 127
+Nombre(s): lucas
+Apellidos: wong
+Género: Masculino
+Fecha de nacimiento: 04/05/1985
+Correo Electrónico: lucas@hotmail.com
+Teléfono: 6641234567
+Asiento: C2
+-
+Vuelo: 127
+Nombre(s): mark
+Apellidos: lee
+Género: Masculino
+Fecha de nacimiento: 05/03/2022
+Correo Electrónico: mark
+Teléfono: 6642731274
+Asiento: A1
+-
+Vuelo: 127
+Nombre(s): johnny
+Apellidos: seo
+Género: Masculino
+Fecha de nacimiento: 03/03/2020
+Correo Electrónico: jhonnyseo@hotmail.com
+Teléfono: 6646217846
+Asiento: B1
+-
+Vuelo: 135
+Nombre(s): mark
+Apellidos: lee
+Género: Masculino
+Fecha de nacimiento: 04/05/2019
+Correo Electrónico: markielee
+Teléfono: 1344234324
+Asiento: B8
+-
+Vuelo: 127
+Nombre(s): monica
+Apellidos: garcia
+Género: Femenino
+Fecha de nacimiento: 05/03/2022
+Correo Electrónico: monica@gmail.com
+Teléfono: 6636566535
+Asiento: A10
+-
+Vuelo: 140
+Nombre(s): fds
+Apellidos: dfs
+Género: Femenino
+Fecha de nacimiento: 03/02/2021
+Correo Electrónico: sdf
+Teléfono: 243
+Asiento: F4
+-
+Vuelo: 127
+Nombre(s): daniel
+Apellidos: jikal
+Género: Masculino
+Fecha de nacimiento: 03/06/2021
+Correo Electrónico: danieljikal@hotmail.com
+Teléfono: 6645426462
+Asiento: A10
+-
+Vuelo: 127
+Nombre(s): Kenneth
+Apellidos: Armenta Ibarra
+Género: Masculino
+Fecha de nacimiento: 18/06/2003
+Correo Electrónico: kenneth.aemrnta
+Teléfono: 673
+Asiento: E4
+-
+Vuelo: 130
+Nombre(s): Kenneth
+Apellidos: Armenta Ibarra
+Género: Masculino
+Fecha de nacimiento: 18/06/2003
+Correo Electrónico: kenneth.armenta@uabc.edu.mx
+Teléfono: 6731148022
+Asiento: B6
+-
