@@ -1,0 +1,16 @@
+Número de Reservación: 1
+Fecha de Reservación: 24/11/2024
+Vuelo: 127
+Nombre(s): mark 
+Apellidos: lee 
+Correo Electrónico: mark
+Asientos: null
+-
+Número de Reservación: 2
+Fecha de Reservación: 24/11/2024
+Vuelo: 135
+Nombre(s): mark 
+Apellidos: lee 
+Correo Electrónico: mark
+Asientos: null
+-

@@ -1,0 +1,35 @@
+-
+Nombre(s): Kenneth 
+Apellidos: Armenta Ibarra
+Género: Masculino
+Fecha de nacimiento: 18/06/2003
+Correo Electrónico: kenneth.armenta@uabc.edu.mx
+Teléfono: 6731148022
+Contraseña: Kenny
+-
+Nombre(s): mark 
+Apellidos: lee 
+Género: Masculino
+Fecha de nacimiento: 04/01/2020
+Correo Electrónico: mark
+Teléfono: 664487545
+Contraseña: nct
+-
+Nombre(s): Mónica Jatziri
+Apellidos: García Alatorre
+Género: Femenino
+Fecha de nacimiento: 05/04/2019
+Correo Electrónico: moni2107
+Teléfono: 55454545
+Contraseña: nct
+-
+Nombre(s): Daniel 
+Apellidos: Flores Jikal
+Género: Masculino
+Fecha de nacimiento: 17/11/1998
+Correo Electrónico: danielflores@gmail.com
+Teléfono: 6647483215
+Contraseña: HOLA
+-
+
+
